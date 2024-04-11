@@ -127,4 +127,4 @@ else:
 
 # Save new locations data to csv
 locations_df = pd.DataFrame(locations_list)
-locations_df.to_csv("locations.csv", index=False, encoding='utf-8')
+locations_df.to_csv("data/locations.csv", index=False, encoding='utf-8')

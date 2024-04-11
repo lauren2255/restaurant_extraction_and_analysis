@@ -12,9 +12,9 @@ Leveraging your knowledge of JavaScript, Python, and network APIs, programmatica
 - streetAddress
 - city
 - state
-postalCode
-phoneNumber
-storeID
+- postalCode
+- phoneNumber
+- storeID
 
 ### Step 2: Association with Reviews
 With the provided Google Reviews and location data you extracted, use any method of your choice to relate the two datasets together. This relationship is imperative, as we need to gain insights about the Google Reviews on a location by location basis.
